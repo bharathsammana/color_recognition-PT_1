@@ -8,7 +8,11 @@ we learned about colors and how we can extract color RGB values and the color na
 
 
 
-![differcolor](https://user-images.githubusercontent.com/117521322/200123371-8c06c86a-e234-4661-9f21-de5876a2a3c4.jpeg)
+
+<img width="960" alt="Screenshot_20221104_164725" src="https://user-images.githubusercontent.com/117521322/200123554-38b5685c-7f36-403c-ad0d-efdf1a6e8b8a.png">
+
+
+
 
 
 ![differscolor](https://user-images.githubusercontent.com/117521322/200123388-e23dda85-9131-44a3-b3b2-c6275e04852b.jpeg)
